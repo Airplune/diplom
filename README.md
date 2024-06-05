@@ -18,6 +18,13 @@
 
 4. В программе PyCharm откройте данный проект.
 
-5. Установите все недостающие библиотеки для запуска приложения (mysql.connector, messagebox, random, tkcalendar)
+5. Откройте терминал и установите все нужные модули:
+     ```code
+   pip install tkinter.messagebox;
+   pip install mysql.connector;
+   pip install random;
+   pip install tkcalendar;
+   pip install Pilow;
+   ```
 
-6. Запустите проект командой shift+f10 или просто зеленой кнопкой в верхнем правом углу экрана.
+7. Запустите проект командой shift+f10 или просто зеленой кнопкой в верхнем правом углу экрана.
