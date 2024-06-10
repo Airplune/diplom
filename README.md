@@ -22,9 +22,9 @@
      ```code
    pip install tkinter.messagebox;
    pip install mysql.connector;
-   pip install random;
+   pip install os;
    pip install tkcalendar;
    pip install Pilow;
    ```
 
-7. Запустите проект командой shift+f10 или просто зеленой кнопкой в верхнем правом углу экрана.
+7. Запустите проект командой shift+f10 или просто зеленой кнопкой в верхнем правом углу экрана. Запускать проект с файла main.py!!!!!
